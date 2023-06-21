@@ -1,0 +1,1 @@
+pytest -v --browser chrome --html=report.html -n=3
